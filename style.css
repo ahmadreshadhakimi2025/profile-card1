@@ -1,0 +1,116 @@
+
+body{
+    background-color: gray;
+}
+.father{
+    width: 500px;
+    height: 570px;
+    box-sizing: border-box;
+    background-color: #fff;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    text-align: center;
+    border: none;
+    border-radius: 20px;
+    box-shadow:0 0 10px black;
+    cursor: pointer;
+    
+}
+.rimage{
+    width: 150px;
+    margin: auto;
+    border: none;
+    border-radius: 15px;
+    margin-top: 20px;
+    
+}
+.t1{
+    font-size: 20px;
+    font-family: Arial;
+    border-bottom: 3px solid gray;
+    width: 225px;
+    display: block;
+    margin: auto;
+    margin-top: 8px;
+}
+.t2{
+    font-size: 25px;
+}
+.span{
+    color: orange;
+}
+.child{
+    height: auto;
+    background-color:lightgray;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    display: block;
+    padding: 3px;
+    box-shadow: 0 0 10px black;
+}
+.logo1{
+    border: none;
+    border-radius: 50%;
+   
+    
+}
+.logo2{
+    border: none;
+    border-radius: 50%;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.logo3{
+    border: none;
+    border-radius: 50%;
+}
+
+.end{
+    text-align: left;
+    background-color: lightgray;
+    width: 210px;
+    margin-left: 5px;
+    margin-top: 20px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 0 5px black;
+}
+.whatsapp{
+    border: none;
+    border-radius: 50%;
+    margin-top: 5px;
+    margin-left: 5px;
+    
+}
+.number{
+    float: right;
+    margin-right: 35px;
+    letter-spacing: 2px;
+    font-family: Arial;
+}
+.end1{
+    text-align: left;
+    background-color: lightgray;
+    width: 210px;
+    margin-left: 5px;
+    margin-top: 20px;
+    border: none;
+    box-shadow: 0 0 5px black;
+
+    border-radius: 10px;
+}
+.location{
+    border: none;
+    border-radius: 50%;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+.add{
+    float: right;
+    margin-right: 20px;
+    font-family: Arial;
+    font-size: small;
+    margin-top: 18px;
+    letter-spacing: 1px;
+}
