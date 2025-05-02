@@ -1,11 +1,11 @@
-<<<<<<< HEAD
-* domo
+# repo information
 
-profile-card
-
-click[her](https://github.com/khancode20/test-project.git)
+This repository is a simple profile card , that have a html file , css , and a readme . and in this profile card we use form same images.
 
 ---
-=======
-profile-card
->>>>>>> bc2bd9dd0b65a18fbd38157f3448094206d57db9
+
+demo:
+click her [profile-card](https://ahmadreshadhakimi2025.github.io/profile-card1/)
+
+(![alt text](image.png))
+
